@@ -1,0 +1,170 @@
+body {
+  background: url(../img/maple.png)  #CCCCCC;  */
+  Color: black;
+  margin-left:50px; 
+  padding: 1%; 
+  min-width: 640px; 
+  font-size: 100.01%; 
+  font-family: verdana, arial, sans-serif ;
+}
+a { color: #0B4D8C; text-decoration: underline; } 
+a:visited { color: black; } 
+.skip {  
+  position: absolute;
+  margin-left: -999px;
+  width: 990px;
+}
+h1 { 
+  font-size: 2.7em;
+  font-weight: normal;
+  line-height: 0.8em;
+  padding: 0.6em 0 0.2em 2%;
+  margin: 0;
+  border-bottom: 1px dashed #CCCCCC;
+}
+h2, h3, h4 { font-weight: normal; }
+h1, h2, h3, h4, h5, h6 { 
+  color: black; 
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+img { 
+  border: solid 1px #aaa;
+  padding: 1px;
+  max-width: 95%; 
+}
+.fleft { 
+  float: left;
+  margin: 0 1em 0.2em 0; 
+}
+.fright {
+  float: right;
+  margin: 0 0 0.2em 1em;
+  padding: 1px;
+}
+
+
+#container { 
+  font-size: 0.8em; 
+  max-width: 70em; 
+  margin: left; 
+  border: 1px solid #aaa; 
+  border-top: 0; 
+  background: white;
+}
+#footer {
+  clear: both; 
+  padding: 0 20px;
+}
+
+#logo {
+  background: #63272f;  
+  height: 32px; 
+  padding: 0 20px;
+  text-align: right;
+  line-height: 27px;
+  font-size: 27px;
+  overflow: hidden; 
+  letter-spacing: -1px; 
+  margin: 0; 
+  color: #f9d0d0;
+}
+#logo a {
+  color: white; 
+  text-decoration: none;
+}
+#logo a span { 
+  color: black;
+  background: white;
+  padding-right: 0.1em; 
+  font-weight: bold;
+}
+
+#menu {
+  /* background: #AEAEAE; */
+  background: #d0d0d0;
+  padding: 5px 5%; 
+  margin: 0;
+  text-align: right;
+  color: #63272f;
+}
+#menu li {
+  font-size: 1.2em;
+  display: inline; 
+  list-style-type: none; 
+  border-left: 1px solid black; 
+  padding: 0 10px 0 15px;
+  font-weight: bold;
+}
+#menu li a {
+  color: black; 
+  text-decoration: none;
+}
+
+#subnav {
+  width: 26%; 
+  min-width: 10em; 
+  float: right;
+  padding: 70px 1% 1em 1%;
+  margin: 1em 1% 0 1%;
+  border-left: 1px dotted #aaa; 
+  font-size: 0.9em; 
+}
+#subnav dt { 
+  font-size: 1.2em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 0.5em;
+  margin-top: 1em;
+  border-top: 1px dotted #aaa; 
+}
+#subnav dd { 
+  padding: 0;
+  margin: 0.2em 0 0;
+}
+
+#main {
+   padding: 0 31% 0 20px; 
+  line-height: 1.5em; 
+}
+
+DIV.pubauthors
+{
+
+ }
+
+DIV.doi
+{
+
+ }
+
+DIV.notes
+{
+
+ }
+
+DIV.pubtitle
+{
+font-weight: bold
+ }
+
+DIV.pubjournal
+{
+font-style: italics
+ }
+
+DIV.cvhead
+{
+font-weight: bold
+ }
+
+DIV.cvline
+{
+ }
+
+DIV.cvsmall
+{
+font-style: italics
+ }
+
+
+
+
